@@ -1,5 +1,9 @@
 # 🌱 Tamagochi Smart Plant
 
+![Tamagochi Smart Plant](docs/cover.png)
+
+[![Demo no YouTube](https://img.youtube.com/vi/6uIpN2XPU0k/0.jpg)](https://www.youtube.com/shorts/6uIpN2XPU0k)
+
 Planta virtual estilo Tamagotchi com monitoramento real de ambiente. Exibe emoções animadas no display OLED conforme as condições da planta — temperatura, umidade do ar, umidade do solo e horário.
 
 ## Hardware
